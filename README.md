@@ -195,7 +195,7 @@ Optimization steps:
 # 9. Live Application Deployment
 
 ## Streamlit Cloud App Link
-👉 [PASTE YOUR STREAMLIT APP LINK HERE]
+👉 https://snigdha-coachbot.streamlit.app/
 
 The application was deployed using Streamlit Cloud and connected securely to the OpenAI API using environment variables.
 
@@ -217,23 +217,7 @@ The video demonstrates:
 
 ---
 
-# 11. Screenshots
-
-## Home Interface
-![Homepage](screenshots/home.png)
-
-## Athlete Profile Input
-![Input](screenshots/input.png)
-
-## AI Generated Coaching Output
-![Output](screenshots/output.png)
-
-## Model Parameter Controls
-![Parameters](screenshots/parameters.png)
-
----
-
-# 12. Installation Guide (Local Execution)
+# 11. Installation Guide (Local Execution)
 
 ```bash
 pip install -r requirements.txt
@@ -243,7 +227,7 @@ streamlit run app.py
 
 ---
 
-# 13. Security Practices
+# 12. Security Practices
 
 - API key stored using environment variables  
 - No API keys committed to GitHub  
@@ -252,7 +236,7 @@ streamlit run app.py
 
 ---
 
-# 14. Social Impact
+# 13. Social Impact
 
 CoachBot AI promotes:
 
@@ -266,7 +250,7 @@ The system demonstrates how Generative AI can address real-world challenges in y
 
 ---
 
-# 15. Conclusion
+# 14. Conclusion
 
 CoachBot AI successfully integrates Generative AI with sports science principles to deliver personalized, safe, and structured athletic guidance.
 
