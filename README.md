@@ -5,8 +5,7 @@
 **Student Name:** Snigdha Reddy Gudure  
 **Candidate Registration Number:** 2505445  
 **CRS Name:** Artificial Intelligence  
-**Course Name:** Generative A.I  
-**School Name:** [ENTER YOUR SCHOOL NAME HERE]  
+**Course Name:** Generative A.I   
 
 ---
 
